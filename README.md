@@ -79,4 +79,3 @@
 <br></br>
 
 - **权限**：权限基于命令结构，例如`/murder command gadget retrieve-all`对应`murderrun.command.gadget.retrieve-all`权限。推荐使用LuckPerms管理权限
-```
